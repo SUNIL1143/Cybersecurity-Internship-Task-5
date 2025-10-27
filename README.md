@@ -10,7 +10,7 @@ I used Wireshark to capture traffic on my active network interface while browsin
 
 
 
-# Identified Protocols Analysis
+### Identified Protocols Analysis
 I identified the following protocols as required by the task:
 
 ## 1. Protocol: DNS (Domain Name System)
@@ -41,5 +41,5 @@ Analysis: This was a UDP packet, but unlike the DNS query, this one was coming f
 
 Purpose: QUIC is a modern protocol developed by Google to make web connections faster and more efficient than traditional TCP.
 
-Conclusion
+## Conclusion
 This task provided hands-on experience in capturing and analyzing live network traffic using Wireshark. I successfully identified and understood the purpose of fundamental protocols like DNS, TCP, TLS, and UDP/QUIC, gaining practical skills in packet analysis.
