@@ -5,7 +5,7 @@ Wireshark Network Traffic Analysis Report
  
 Objective: To capture live network packets and identify basic protocols and traffic types. 
 
-#Summary of Activity
+**Summary of Activity
 I used Wireshark to capture traffic on my active network interface while browsing the web. After stopping the capture, I analyzed the packets and successfully identified several key protocols. 
 
 
