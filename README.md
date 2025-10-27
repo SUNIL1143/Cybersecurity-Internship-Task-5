@@ -10,7 +10,7 @@ I used Wireshark to capture traffic on my active network interface while browsin
 
 
 
-### Identified Protocols Analysis
+## Identified Protocols Analysis
 I identified the following protocols as required by the task:
 
 ## 1. Protocol: DNS (Domain Name System)
